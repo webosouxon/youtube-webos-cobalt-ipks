@@ -1,0 +1,63 @@
+Application information appinfo.json:
+{
+  "title": "YouTube"
+}
+{
+  "title": "YouTube"
+}
+{
+  "icon": "yt_lg_80x80.png",
+  "main": "cobalt",
+  "bgImage": "9262051282473701_youtube_leanback_preview.png",
+  "title": "YouTube",
+  "type": "native",
+  "resolution": "1920x1080",
+  "extraLargeIcon": "21958303455809626_16977867_192x192.png",
+  "privilegedJail": true,
+  "binId": 1094214,
+  "vendor": "LG Electronics",
+  "wolwowlan": true,
+  "appsize": 40861373,
+  "enablePigScreenSaver": false,
+  "id": "youtube.leanback.v4",
+  "requiredEULA": "generalTerms",
+  "nativeLifeCycleInterfaceVersion": 2,
+  "imageForRecents": "9262051307371701_youtube_leanback_splash.png",
+  "trustLevel": "default",
+  "version": "1.3.92",
+  "splashBackground": "2018-new-splash-solid-grey-LG.png",
+  "supportQuickStart": true,
+  "largeIcon": "yt_lg_130x130.png",
+  "iconColor": "#ffffff",
+  "dialAppName": "YouTube",
+  "deeplinkingParams": "{\"contentTarget\":\"https://www.youtube.com/tv?launch=search&v=$CONTENTID\"}",
+  "uiRevision": 2,
+  "mediumLargeIcon": "21958303437386582_16977867_115x115.png"
+}
+
+Application information packageinfo.json:
+{
+  "app": "youtube.leanback.v4",
+  "id": "youtube.leanback.v4",
+  "version": "1.3.92"
+}
+
+Application information resourceinfo.json:
+No resourceinfo.json file found
+
+Build information on cobalt:
+cobalt_version: 20.lts.5
+cobalt_build: 272122
+cobalt_branch: 20.lts
+commit_revision: b9c684d
+build_target: gold
+soc: o18
+oe_env: glacier_109
+build_time: 2021-05-31 11:04
+build_user: byeonguk.ahn
+
+Internal build information on cobalt:
+No cobalt file found
+
+Internal build information on libcobalt.so:
+No libcobalt.so file found

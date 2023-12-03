@@ -1,0 +1,67 @@
+Application information appinfo.json:
+{
+  "title": "YouTube"
+}
+{
+  "title": "YouTube"
+}
+{
+  "accessibility": {
+    "supportsAudioGuidance": true
+  },
+  "icon": "youtube_leanback_v4_80x80.png",
+  "main": "index.html",
+  "bgImage": "9262051282473701_youtube_leanback_preview.png",
+  "type": "web",
+  "title": "YouTube",
+  "resolution": "1920x1080",
+  "extraLargeIcon": "21958272049404177_16977867_192x192.png",
+  "privilegedJail": true,
+  "volumeRatioOnTTS": 50,
+  "binId": 459081,
+  "vendor": "LG Electronics",
+  "appsize": 69327,
+  "id": "youtube.leanback.v4",
+  "support360Content": true,
+  "requiredEULA": "generalTerms",
+  "trustLevel": "netcast",
+  "version": "1.0.54",
+  "splashBackground": "9262051307371701_youtube_leanback_splash.png",
+  "vendorExtension": {
+    "reloadAtLanguageChanged": true,
+    "backgroundColor": "0xFF212121",
+    "enableMouse": true,
+    "mouseMoveForMouseOff": false,
+    "allowCrossDomain": true,
+    "userAgent": "$browserName$/$browserVersion$ ($platformName$-$platformVersion$), _TV_$chipSetName$/$firmwareVersion$ (LG, $modelName$, $networkMode$)",
+    "enableKeyboard": false
+  },
+  "supportQuickStart": true,
+  "iconColor": "#ffffff",
+  "largeIcon": "youtube_leanback_v4_130x130.png",
+  "dialAppName": "YouTube",
+  "deeplinkingParams": "{\"contentTarget\":\"v=$CONTENTID\",\"handledBy\":\"app\"}",
+  "age": 0,
+  "mediumLargeIcon": "21958272026793829_16977867_115x115.png"
+}
+
+Application information packageinfo.json:
+{
+  "app": "youtube.leanback.v4",
+  "vendor": "LG Electronics",
+  "loc_name": "YouTube",
+  "id": "youtube.leanback.v4",
+  "version": "1.0.54"
+}
+
+Application information resourceinfo.json:
+No resourceinfo.json file found
+
+Build information on cobalt:
+No build_info file found
+
+Internal build information on cobalt:
+No cobalt file found
+
+Internal build information on libcobalt.so:
+No libcobalt.so file found
