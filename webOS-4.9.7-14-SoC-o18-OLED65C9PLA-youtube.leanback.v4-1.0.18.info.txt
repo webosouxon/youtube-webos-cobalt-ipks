@@ -1,0 +1,69 @@
+Application information appinfo.json:
+{
+  "title": "YouTube"
+}
+{
+  "title": "YouTube"
+}
+{
+  "supportQueryRouting": "{\"amazonAlexa\":true, \"googleAssistant\":true}",
+  "icon": "yt_lg_80x80.png",
+  "main": "cobalt",
+  "bgImage": "9262051282473701_youtube_leanback_preview.png",
+  "title": "YouTube",
+  "type": "native",
+  "resolution": "1920x1080",
+  "fileSystemType": "squashfs",
+  "extraLargeIcon": "41053081701840872_16977867_192x192.png",
+  "privilegedJail": true,
+  "binId": 1096365,
+  "vendor": "LG Electronics",
+  "wolwowlan": true,
+  "appsize": 37460024,
+  "enablePigScreenSaver": false,
+  "id": "youtube.leanback.v4",
+  "inAppSearchParams": "{ \"contentTarget\" : \"q=$SEARCH_KEYWORD\"}",
+  "requiredEULA": "generalTerms",
+  "nativeLifeCycleInterfaceVersion": 2,
+  "imageForRecents": "9262051307371701_youtube_leanback_splash.png",
+  "internalInstallationOnly": true,
+  "inAppVoiceIntent": "{\"contentTarget\":{\"intent\":\"$INTENT\",\"intentParam\":\"$INTENT_PARAM\",\"languageCode\":\"$LANG_CODE\",\"voiceEngine\":\"$VOICE_ENGINE\"}}",
+  "trustLevel": "default",
+  "version": "1.0.18",
+  "splashBackground": "2018-new-splash-solid-grey-LG.png",
+  "supportQuickStart": true,
+  "largeIcon": "yt_lg_130x130.png",
+  "iconColor": "#ffffff",
+  "dialAppName": "YouTube",
+  "playIcon": "ic_add_youtube_channel.png",
+  "deeplinkingParams": "{\"contentTarget\":\"$CONTENTID\"}",
+  "uiRevision": 2,
+  "mediumLargeIcon": "41053081685527928_16977867_115x115.png"
+}
+
+Application information packageinfo.json:
+{
+  "app": "youtube.leanback.v4",
+  "id": "youtube.leanback.v4",
+  "version": "1.0.18"
+}
+
+Application information resourceinfo.json:
+No resourceinfo.json file found
+
+Build information on cobalt:
+cobalt_version: 21.lts.2
+cobalt_build: 289852
+cobalt_branch: 21.lts
+commit_revision: b2f7b1cf91
+build_target: gold
+soc: o18
+oe_env: gld4tv_545
+build_time: 2021-06-25 11:05
+build_user: byeonguk.ahn
+
+Internal build information on cobalt:
+No cobalt file found
+
+Internal build information on libcobalt.so:
+No libcobalt.so file found
